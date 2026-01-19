@@ -1,6 +1,6 @@
 # Ashstone React Test Project
 
-This is a professional blog application built for the **Ashstone** test assignment using **Plain React** (Vite + TypeScript). It is designed to be lightweight, responsive, and high-performance.
+This is a professional blog application built for the **Ashstone** test assignment using **React** (Vite + TypeScript). It is designed to be lightweight, responsive, and high-performance.
 
 ## 🚀 How to Use
 
@@ -22,10 +22,3 @@ To generate a production-ready bundle:
 ```bash
 npm run build
 ```
-
-## ✨ Key Features
-- **Sticky Navigation**: Auto-hiding header that reappears on scroll-up.
-- **Dynamic Search**: High-performance post filtering with debouncing.
-- **Responsive Grid**: Columns adapt for Mobile (1), Tablet (2), and Desktop (3).
-- **Post Details**: Modal popup with body-scroll locking and keyboard support.
-- **Figma Fidelity**: Styled strictly according to the provided design specifications.
